@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountMangerDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AccountManger_AccountsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AccountManger_TransactionsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminSystem_DashBoardUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer_Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerService_AccountsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerServiceDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerService_CustomersUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer_ShowProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer_Transcations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoanOfficerDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer_LoansForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoanOfficer_LoanRepaymentUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoanOfficer_LoansUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomerService_TransactionsUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
