@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customer_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customer_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customer_transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customer_transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\accountmanger_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:accountmanger_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customer_transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customer_transcations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\accountmanger_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:accountmanger_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\customerservice_customersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customerservice_customersusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\models\\audit_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:models\\audit_logs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customerservice_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customerservice_accountsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customer_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customer_accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\accountmangerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:accountmangerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\accountmanger_transactionsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:accountmanger_transactionsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\customerservicedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customerservicedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customerservicedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customerservicedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\customer_loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:customer_loansform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|c:\\users\\lulut\\source\\repos\\complete_bank_system\\models\\complete_bank_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF112E8-A99F-4BAF-9596-79ED059438AC}|Complete_Bank_System.csproj|solutionrelative:models\\complete_bank_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,166 +30,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountManger_AccountsUserControl.cs",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_AccountsUserControl.cs",
-              "RelativeDocumentMoniker": "AccountManger_AccountsUserControl.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_AccountsUserControl.cs",
-              "RelativeToolTip": "AccountManger_AccountsUserControl.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAAAIgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:54:43.605Z",
+              "WhenOpened": "2025-02-18T17:57:43.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer_Transcations.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Transcations.cs",
+              "RelativeDocumentMoniker": "Customer_Transcations.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Transcations.cs",
+              "RelativeToolTip": "Customer_Transcations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:54:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer_Transcations.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Transcations.cs",
+              "RelativeDocumentMoniker": "Customer_Transcations.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Transcations.cs [Design]",
+              "RelativeToolTip": "Customer_Transcations.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:54:16.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Audit_Logs.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Models\\Audit_Logs.cs",
+              "RelativeDocumentMoniker": "Models\\Audit_Logs.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Models\\Audit_Logs.cs",
+              "RelativeToolTip": "Models\\Audit_Logs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:42:17.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CustomerService_AccountsUserControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerService_AccountsUserControl.cs",
-              "RelativeDocumentMoniker": "CustomerService_AccountsUserControl.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerService_AccountsUserControl.cs [Design]",
-              "RelativeToolTip": "CustomerService_AccountsUserControl.cs [Design]",
+              "Title": "Complete_Bank_SystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Models\\Complete_Bank_SystemContext.cs",
+              "RelativeDocumentMoniker": "Models\\Complete_Bank_SystemContext.cs",
+              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Models\\Complete_Bank_SystemContext.cs",
+              "RelativeToolTip": "Models\\Complete_Bank_SystemContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:54:32.285Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer_Accounts.cs",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Accounts.cs",
-              "RelativeDocumentMoniker": "Customer_Accounts.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Accounts.cs",
-              "RelativeToolTip": "Customer_Accounts.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAIwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:50:21.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomerService_CustomersUserControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerService_CustomersUserControl.cs",
-              "RelativeDocumentMoniker": "CustomerService_CustomersUserControl.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerService_CustomersUserControl.cs [Design]",
-              "RelativeToolTip": "CustomerService_CustomersUserControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:07:10.137Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountManger_AccountsUserControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_AccountsUserControl.cs",
-              "RelativeDocumentMoniker": "AccountManger_AccountsUserControl.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_AccountsUserControl.cs [Design]",
-              "RelativeToolTip": "AccountManger_AccountsUserControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:45:46.807Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer_Accounts.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Accounts.cs",
-              "RelativeDocumentMoniker": "Customer_Accounts.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_Accounts.cs [Design]",
-              "RelativeToolTip": "Customer_Accounts.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:50:17.123Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AccountMangerDashBoard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountMangerDashBoard.cs",
-              "RelativeDocumentMoniker": "AccountMangerDashBoard.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountMangerDashBoard.cs [Design]",
-              "RelativeToolTip": "AccountMangerDashBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:45:49.687Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountManger_TransactionsUserControl.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_TransactionsUserControl.cs",
-              "RelativeDocumentMoniker": "AccountManger_TransactionsUserControl.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AccountManger_TransactionsUserControl.cs [Design]",
-              "RelativeToolTip": "AccountManger_TransactionsUserControl.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:45:48.117Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AdminDashboard.cs",
-              "RelativeToolTip": "AdminDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:13:16.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminDashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AdminDashboard.cs",
-              "RelativeDocumentMoniker": "AdminDashboard.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\AdminDashboard.cs [Design]",
-              "RelativeToolTip": "AdminDashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:13:14.976Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerServiceDashBoard.cs",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerServiceDashBoard.cs",
-              "RelativeDocumentMoniker": "CustomerServiceDashBoard.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerServiceDashBoard.cs",
-              "RelativeToolTip": "CustomerServiceDashBoard.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:06:43.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerServiceDashBoard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerServiceDashBoard.cs",
-              "RelativeDocumentMoniker": "CustomerServiceDashBoard.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\CustomerServiceDashBoard.cs [Design]",
-              "RelativeToolTip": "CustomerServiceDashBoard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:06:41.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Customer_LoansForm.cs",
-              "DocumentMoniker": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_LoansForm.cs",
-              "RelativeDocumentMoniker": "Customer_LoansForm.cs",
-              "ToolTip": "C:\\Users\\Lulut\\source\\repos\\Complete_Bank_System\\Customer_LoansForm.cs",
-              "RelativeToolTip": "Customer_LoansForm.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T20:01:50.152Z"
+              "WhenOpened": "2025-02-08T14:42:07.836Z"
             }
           ]
         }

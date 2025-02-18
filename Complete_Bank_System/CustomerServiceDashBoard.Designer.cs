@@ -30,16 +30,16 @@
         {
             btn_Transactions = new Button();
             panel1 = new Panel();
+            pictureBox1 = new PictureBox();
+            label1 = new Label();
             btn_Accounts = new Button();
             btn_AddCustomer = new Button();
             btn_ReturnToLogin = new Button();
             panel_Container = new Panel();
             exit = new Button();
-            label1 = new Label();
-            pictureBox1 = new PictureBox();
             panel1.SuspendLayout();
-            panel_Container.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panel_Container.SuspendLayout();
             SuspendLayout();
             // 
             // btn_Transactions
@@ -76,6 +76,28 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(324, 636);
             panel1.TabIndex = 1;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.bankLogo;
+            pictureBox1.Location = new Point(83, 57);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(133, 115);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 13;
+            pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.DarkGreen;
+            label1.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(43, 194);
+            label1.Name = "label1";
+            label1.Size = new Size(216, 28);
+            label1.TabIndex = 12;
+            label1.Text = "Customer Service";
             // 
             // btn_Accounts
             // 
@@ -129,7 +151,7 @@
             btn_ReturnToLogin.Name = "btn_ReturnToLogin";
             btn_ReturnToLogin.Size = new Size(256, 34);
             btn_ReturnToLogin.TabIndex = 5;
-            btn_ReturnToLogin.Text = "Signout";
+            btn_ReturnToLogin.Text = "Logout";
             btn_ReturnToLogin.UseVisualStyleBackColor = false;
             btn_ReturnToLogin.Click += btn_ReturnToLogin_Click;
             // 
@@ -151,35 +173,13 @@
             exit.FlatStyle = FlatStyle.Flat;
             exit.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             exit.ForeColor = Color.White;
-            exit.Location = new Point(826, -1);
+            exit.Location = new Point(828, -1);
             exit.Name = "exit";
             exit.Size = new Size(29, 34);
             exit.TabIndex = 26;
             exit.Text = "X";
             exit.UseVisualStyleBackColor = false;
             exit.Click += exit_Click;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.DarkGreen;
-            label1.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(43, 194);
-            label1.Name = "label1";
-            label1.Size = new Size(216, 28);
-            label1.TabIndex = 12;
-            label1.Text = "Customer Service";
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.bankLogo;
-            pictureBox1.Location = new Point(83, 57);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(133, 115);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 13;
-            pictureBox1.TabStop = false;
             // 
             // CustomerServiceDashBoard
             // 
@@ -193,8 +193,8 @@
             Text = "CustomerServiceDashBoard";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            panel_Container.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panel_Container.ResumeLayout(false);
             ResumeLayout(false);
         }
 

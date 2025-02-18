@@ -141,7 +141,7 @@
             ContainerPanel.Controls.Add(exit);
             ContainerPanel.Location = new Point(342, 0);
             ContainerPanel.Name = "ContainerPanel";
-            ContainerPanel.Size = new Size(857, 619);
+            ContainerPanel.Size = new Size(861, 619);
             ContainerPanel.TabIndex = 2;
             ContainerPanel.Paint += ContainerPanel_Paint;
             // 

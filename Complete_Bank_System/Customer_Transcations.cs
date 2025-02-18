@@ -6,6 +6,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
@@ -39,16 +40,23 @@ namespace Complete_Bank_System
                 txt_Transactions_AccNum.Text = "";
                 return;
             }
+            if (context.accounts.Where(a => a.AccountNumber == ACCNum).SingleOrDefault() == null)
+            {
+                lbl_Actual_Balance.Text = "";
+                MessageBox.Show("Invalid Account Number", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+                Account account = context.accounts.Where(a => a.AccountNumber == ACCNum).SingleOrDefault();
+            if (Authorize(account) == false)
+            {
+                return;
+            }
+
             if (context.accounts.Where(a => a.AccountNumber == ACCNum).SingleOrDefault() != null)
             {
                 lbl_Actual_Balance.Text = context.accounts.Where(a => a.AccountNumber == ACCNum).SingleOrDefault().Balance.ToString() + "SD";
             }
-            else
-            {
-                lbl_Actual_Balance.Text = "";
-                MessageBox.Show("Invalid Account Number", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 
-            }
 
         }
 
@@ -80,6 +88,10 @@ namespace Complete_Bank_System
                 {
                     MessageBox.Show("Invalid Account Number", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     txt_Deposit_ACCNUM.Text = "";
+                    return;
+                }
+                if (Authorize(account) == false)
+                {
                     return;
                 }
                 if (nUD_Deposite_Amount.Value <= 0)
@@ -131,10 +143,15 @@ namespace Complete_Bank_System
             try
             {
                 var account = context.accounts.SingleOrDefault(a => a.AccountNumber == AccountNum);
+                
                 if (account == null)
                 {
                     MessageBox.Show("Invalid Account Number", "Validation", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     txt_Withdraw_ACCNUM.Text = "";
+                    return;
+                }
+                if(Authorize(account)== false)
+                {
                     return;
                 }
                 if (nUD_Withdraw_Amount.Value <= 0)
@@ -250,6 +267,16 @@ namespace Complete_Bank_System
         private void exit_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private bool Authorize(Account account )
+        {
+            if (account.CustomerId != CustomerID)
+            {
+                MessageBox.Show("You Don't Have Access to this Account !", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return false;
+            }
+            return true;
         }
     }
 }

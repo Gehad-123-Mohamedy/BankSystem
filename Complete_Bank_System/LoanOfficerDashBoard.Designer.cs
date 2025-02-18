@@ -29,16 +29,16 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
+            label1 = new Label();
+            pictureBox1 = new PictureBox();
             btn_LoanRepayment = new Button();
             btn_ReturnToLogin = new Button();
             btn_Loans = new Button();
             ContainerPanel = new Panel();
             exit = new Button();
-            pictureBox1 = new PictureBox();
-            label1 = new Label();
             panel1.SuspendLayout();
-            ContainerPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ContainerPanel.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -55,6 +55,28 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(295, 621);
             panel1.TabIndex = 1;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.BackColor = Color.DarkGreen;
+            label1.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(56, 216);
+            label1.Name = "label1";
+            label1.Size = new Size(154, 28);
+            label1.TabIndex = 15;
+            label1.Text = "Loan Officer";
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.bankLogo;
+            pictureBox1.Location = new Point(66, 76);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(133, 115);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 14;
+            pictureBox1.TabStop = false;
             // 
             // btn_LoanRepayment
             // 
@@ -89,7 +111,7 @@
             btn_ReturnToLogin.Name = "btn_ReturnToLogin";
             btn_ReturnToLogin.Size = new Size(256, 37);
             btn_ReturnToLogin.TabIndex = 5;
-            btn_ReturnToLogin.Text = "Signout";
+            btn_ReturnToLogin.Text = "Logout";
             btn_ReturnToLogin.UseVisualStyleBackColor = false;
             btn_ReturnToLogin.Click += btn_ReturnToLogin_Click;
             // 
@@ -137,28 +159,6 @@
             exit.UseVisualStyleBackColor = false;
             exit.Click += exit_Click;
             // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.bankLogo;
-            pictureBox1.Location = new Point(66, 76);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(133, 115);
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            pictureBox1.TabIndex = 14;
-            pictureBox1.TabStop = false;
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.BackColor = Color.DarkGreen;
-            label1.Font = new Font("Tahoma", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(56, 216);
-            label1.Name = "label1";
-            label1.Size = new Size(154, 28);
-            label1.TabIndex = 15;
-            label1.Text = "Loan Officer";
-            // 
             // LoanOfficerDashBoard
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -171,8 +171,8 @@
             Text = "LoanOfficerDashBoard";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            ContainerPanel.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ContainerPanel.ResumeLayout(false);
             ResumeLayout(false);
         }
 
